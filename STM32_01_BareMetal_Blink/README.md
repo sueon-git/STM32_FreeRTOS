@@ -1,7 +1,8 @@
 # 프로젝트 1: STM32 베어메탈(Bare-Metal) LED 깜빡이기
 > STM32 펌웨어 개발, OS 없이 하드웨어를 직접 제어하는 기본 원리 확인
 
-![동작 영상 (GIF)](https://github.com/user-attachments/assets/3b9830d6-99b9-40dc-8286-2f18a3a2ce1a)
+<img width="406" height="720" alt="STM32_01_BareMetal_Blink" src="https://github.com/user-attachments/assets/93c2fe18-17cf-4e06-bb25-39d3f313580c" />
+
 
 ---
 
