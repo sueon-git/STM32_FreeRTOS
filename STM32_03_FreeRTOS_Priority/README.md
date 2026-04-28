@@ -1,7 +1,8 @@
 # 프로젝트 3: FreeRTOS 작업 우선순위(Priority)와 선점형 스케줄링
 > 여러 작업이 동시에 실행될 준비가 되었을 때, "누가 먼저 실행되는가?"에 대한 해답
 
-<img width="573" height="313" alt="Image" src="https://github.com/user-attachments/assets/a67ea30c-c23d-4c5d-bc8e-6aba9c572a39" />
+<img width="573" height="313" alt="STM32_03_FreeRTOS_Priority" src="https://github.com/user-attachments/assets/3c40a2a7-167a-410e-8d54-b571d7991e30" />
+
 
 ---
 
