@@ -1,7 +1,8 @@
 # 프로젝트 2: FreeRTOS 멀티태스킹 입문
 > 첫 베어메탈 프로젝트에서 가졌던 궁금증, "LED를 깜빡이면서 동시에 다른 일을 하려면 어떻게 해야 할까?" 에 대한 해답
 
-![Image](https://github.com/user-attachments/assets/1234dc4a-4608-4e22-89e3-38da81fcc144)
+<img width="406" height="720" alt="STM32_02_FreeRTOS_Multitasking" src="https://github.com/user-attachments/assets/9b87c6f6-c92e-438f-8028-5a9624c45970" />
+
 
 ---
 
