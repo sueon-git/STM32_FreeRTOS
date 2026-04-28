@@ -1,7 +1,8 @@
 ### **프로젝트 7: FreeRTOS 세마포어(Semaphore)를 이용한 자원 관리**
 한정된 개수의 자원을 여러 작업이 안전하게 나눠 쓰는 방법 학습
 
-![Image](https://github.com/user-attachments/assets/5d557dd3-8e56-4f01-8373-77623448167e)
+<img width="320" height="569" alt="STM32_07_FreeRTOS_Semaphore" src="https://github.com/user-attachments/assets/0756a738-3f65-4433-bab1-28ec5618e45d" />
+
 
 ---
 ## **프로젝트 개요 (Project Overview)**
