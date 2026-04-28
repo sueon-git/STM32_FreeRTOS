@@ -1,7 +1,8 @@
 # 프로젝트 4: FreeRTOS 큐(Queue)를 이용한 작업 간 통신
 > 독립적으로 움직이는 작업(Task)들이 서로 데이터를 주고받는 방법 
 
-![Image](https://github.com/user-attachments/assets/9aa98f92-a5b9-4bfc-958f-65d4164c572b)
+<img width="320" height="567" alt="STM32_06_FreeRTOS_Queue_TimeBased" src="https://github.com/user-attachments/assets/35f4ee64-46d8-446a-aaa9-8f5f775a6c6d" />
+
 
 ---
 
