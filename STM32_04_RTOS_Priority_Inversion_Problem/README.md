@@ -1,7 +1,8 @@
 # 프로젝트 4: FreeRTOS 우선순위 역전(Priority Inversion) 문제 재현
 > 우선순위 스케줄링과 공유 자원이 만났을 때 발생하는 문제(역전) 상황 분석
 
-![동작 영상 (GIF)](https://github.com/user-attachments/assets/35d3920b-55e2-4196-842e-e312633dcb91)
+<img width="406" height="720" alt="STM32_04_FreeRTOS_Priority_Inversion_Problem" src="https://github.com/user-attachments/assets/6c17eb5f-2724-404f-a0d7-820df4f01e7b" />
+
 
 ---
 
