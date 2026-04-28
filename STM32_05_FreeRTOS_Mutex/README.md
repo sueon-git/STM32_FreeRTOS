@@ -1,7 +1,8 @@
 # 프로젝트 5: FreeRTOS 뮤텍스(Mutex)를 이용한 공유 자원 보호
 > 4번 프로젝트에서 발견한 '우선순위 역전' 문제를 뮤텍스로 해결하며 시스템 안정성 확보
 
-![Image](https://github.com/user-attachments/assets/fa3e94c8-e4a5-4052-adde-3c712d8959bf)
+<img width="480" height="851" alt="STM32_05_FreeRTOS_Mutex" src="https://github.com/user-attachments/assets/9ca9fb87-4385-44c7-b246-7b42b7dff500" />
+
 
 ---
 
